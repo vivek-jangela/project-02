@@ -1159,41 +1159,41 @@ nav i{
     font-size: 8vw;
 }
 #img{
-    top: -10%;
+    top: 0%;
     right: -45%;
     width: 22vh;
-    height: 270vh;
+    height: 100%;
     transition: all ease 0.5s;
 
 }
 #img2{
-    top: -10%;
+    top: 0%;
     right: -45%;
     width: 22vh;
-    height: 270vh;
+    height: 100%;
     transition: all ease 0.5s;
 
 }
 #img3{
-    top: -10%;
+    top: 0%;
     right: -45%;
     width: 22vh;
-    height: 270vh;
+    height: 100%;
     transition: all ease 0.5s;
 
 }
 #img4{
-    top: -10%;
+    top: 0%;
     right: -45%;
     z-index: 10;
     position: absolute;
     width: 22vh;
-    height: 270vh;
+    height: 100%;
     transition: all ease 0.5s;
 
 }
 #img5{
-    top: -10%;
+    top: 0%;
     z-index: 10;
     position: absolute;
     right: -45%;
@@ -1203,12 +1203,12 @@ nav i{
 
 }
 #img6{
-    top: -10%;
+    top: 0%;
     right: -45%;
     z-index: 10;
     position: absolute;
     width: 22vh;
-    height: 270vh;
+    height: 100%;
     transition: all ease 0.5s;
 
 }
@@ -1218,17 +1218,17 @@ nav i{
     z-index: 10;
     position: absolute;
     width: 22vh;
-    height: 270vh;
+    height: 100%;
     transition: all ease 0.5s;
 
 }
 #img8{
-    top: -10%;
+    top: 0%;
     right: -45%;
     z-index: 10;
     position: absolute;
     width: 22vh;
-    height: 270vh;
+    height: 100%;
     transition: all ease 0.5s;
 
 }
